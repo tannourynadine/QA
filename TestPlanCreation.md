@@ -13,7 +13,7 @@ There is no global list of all test plans; instead, pull requests,
 forum posts, or whatever makes sense for the thing being tested (new
 feature, release candidate) just link to the relevant master test plan
 or plans.  If we need or want to re-test something later, old test
-plans will be copied into new gists.
+plans will be cloned or edited.
 
 Creating a new plan
 --

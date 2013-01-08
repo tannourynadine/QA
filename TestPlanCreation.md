@@ -33,7 +33,5 @@ Gather/report results
 --
 
 Update the test plan as you get results (whether from other testers or from your own tests).
-If this is a test plan for a new feature, update the pull request with test results to convince
-the core developers it is safe to pull.
-
-
+If this is a test plan for a new feature, update the pull request with test results to help
+convince the core developers it is safe to pull.

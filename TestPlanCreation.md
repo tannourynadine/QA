@@ -22,12 +22,12 @@ Creating a new plan
   ![github fork](http://dl.dropbox.com/u/38065353/Github_ForkButton.jpg)
 2. Create a new file to contain the new test plan. Try to choose a good filename.<br/>
   ![github add](http://dl.dropbox.com/u/38065353/Github_AddButton.jpg)
-3. Create the test plan; copy/paste the TestPlanSkeleton.md template to start.
+3. Create the test plan; copy/paste the [TestPlanSkeleton.md](TestPlanSkeleton.md) template to start.
 
 Testing
 --
 
-Follow the procedure in TestPlanExecution.md to carry out the test plan.
+Follow the procedure in [TestPlanExecution.md](TestPlanExecution.md) to carry out the test plan.
 
 Gather/report results
 --

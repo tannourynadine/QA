@@ -47,3 +47,10 @@ EXPECT:
 2. GUI is up and running and synchronized with the network quickly.
 
 PASS/FAIL
+
+### Final steps
+
+Tell testers what they should do when they're finished; for example:
+
+Email a link to your forked repository with attached debug.log files to {...}. If the debug.log files are
+too large to attach, upload them to a service like mediafire.com, dropbox, etc. and include a link in the email.

@@ -14,6 +14,7 @@ Describe any test environment setup that needs to be done, in an explicit, step-
 
 For example, for sanity-testing a release the setup might be:
 
+0. Fork the test plan's github repository (see [TestPlanExecution.md](TestPlanExecution.md) )
 1. Begin with a clean, non-developer operating-system image.
 2. Download latest release candidate from sourceforge.
 3. Run installer or follow installation instructions.
